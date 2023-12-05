@@ -12,7 +12,7 @@ Manage your library collection efficiently with this Python desktop application.
 - Required dependencies: tkinter, Pillow (PIL)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
+1. Clone the repository: `git clone https://github.com/Muhammad-Usman-Sidd/library-management-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
